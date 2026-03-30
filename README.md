@@ -1,6 +1,8 @@
 Hi, I'm Anshika Singh
 
-- Branch: [BTech CSE core]
+- Branch: BTech- Computer Science Engineering (Core)  
 - Year: 1st year
 
-I hope to learn and improve my skills in python programming ,My goal is to become software developer .
+I hope to learn and improve my skills.
+
+My goal is to become software developer.
