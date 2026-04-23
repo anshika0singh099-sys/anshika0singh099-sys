@@ -1,8 +1,16 @@
-Hi, I'm Anshika Singh
+Hi, I'm Anshika Singh 👋
 
-- Branch: BTech- Computer Science Engineering (Core)  
-- Year: 1st year
+- 1st-year B.Tech student in Computer Science Engineering (Core)
 
-I hope to learn and improve my skills.
+  
+- Aspiring Software Developer
 
-My goal is to become software developer.
+
+-  Currently learning and improving my programming and problem-solving skills
+
+  
+- Passionate about building projects and growing in the tech field
+
+
+
+## Always eager to learn and explore new technologies
