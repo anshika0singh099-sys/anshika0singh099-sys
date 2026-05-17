@@ -1,5 +1,6 @@
 Hi, I'm Anshika Singh 👋
 
+
 - 1st-year B.Tech student in Computer Science Engineering (Core).
 
   
@@ -13,4 +14,4 @@ Hi, I'm Anshika Singh 👋
 
 
 
-Always eager to learn and explore new technologies.
+## Always eager to learn and explore new technologies.
