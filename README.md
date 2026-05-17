@@ -13,4 +13,4 @@ Hi, I'm Anshika Singh 👋
 
 
 
-## Always eager to learn and explore new technologies.
+Always eager to learn and explore new technologies.
